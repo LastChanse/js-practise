@@ -1,0 +1,1 @@
+This modifications from https://itchief.ru/javascript/popup-messages
