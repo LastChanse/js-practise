@@ -1,4 +1,4 @@
 # js-practise
 
 ## Результат вы можете посмотреть тут
-[Сайт с практики](https://www.jscatalog.ru/)
+[Сайт с практики](http://jscatalogexample.ru/)
